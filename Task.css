@@ -10,6 +10,9 @@ h1{
     text-align: center;
     font-size: 40px;
 }
+h1 ul1{
+    text-shadow: 2px 2px 5px red;
+}
 ul{
     list-style-type:none;
 
@@ -47,6 +50,7 @@ h2{
 h2 ul2{
     font-size: 30px;
     color: gray;
+    font-weight:600;
 }
 h5{
     color: red;
